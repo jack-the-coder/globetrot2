@@ -13,6 +13,13 @@
   color: white;
 }
 
+#bodytext {
+  padding-top: 90%;
+  font-size: 1.25em;
+  color: black;
+  
+}
+
 #background-image {
   z-index: -10;
   width: 100%;
