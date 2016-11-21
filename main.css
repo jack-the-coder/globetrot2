@@ -1,5 +1,5 @@
 * {
-  font-family: Helvetica;
+  font-family: "Open Sans";
 }
 
 #wrapper {
@@ -9,4 +9,5 @@
 
 #header {
   padding-top: 30px;
+  font-size: 50px;
 }
