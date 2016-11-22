@@ -19,12 +19,7 @@
 #bodytext {
   font-size: 1.3em;
   color: #444;
-  background: #00aaff; 
-  background: -webkit-linear-gradient(left, #00aaff, #00ffaa); 
-  background: -moz-linear-gradient(left, #00aaff, #00ffaa); 
-  background: -ms-linear-gradient(left, #00aaff, #00ffaa); 
-  background: -o-linear-gradient(left, #00aaff, #00ffaa); 
-  background: linear-gradient(to right, #00aaff, #00ffaa);
+  
   
 }
 
