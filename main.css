@@ -1,11 +1,12 @@
 * {
   font-family: "Open Sans";
+  background-color: #d3d3d3
 }
 
 #wrapper {
   width: 75%;
   margin: 0 auto;
-  bg-color: #d3d3d3;
+  
 }
 
 #header {
