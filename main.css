@@ -10,13 +10,13 @@
 
 #header {
   padding-top: 5%;
+  padding-bottom: 90vh;
   font-size: 2.75em;
   color: white;
   letter-spacing: 2px;
 }
 
 #bodytext {
-  padding-top: 90vh;
   font-size: 1.3em;
   color: #444;
   background: #00aaff; 
