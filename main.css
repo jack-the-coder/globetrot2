@@ -8,8 +8,7 @@
 }
 
 #header {
-  padding-top: 5%;
-  padding-bottom: 90vh;
+  margin-top: 5%
   font-size: 2.75em;
   color: white;
   letter-spacing: 2px;
@@ -18,10 +17,7 @@
 #bodytext {
   font-size: 1em;
   color: black;
-  font-size: 1.3em;
-  color: #444;
-  text-align: justify;
-  
+  color: white;
 }
 
 #background-image {
