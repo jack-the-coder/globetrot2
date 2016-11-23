@@ -42,3 +42,16 @@
 body {
   margin: 0;
 }
+
+/* The animation code */
+@keyframes fadecolor {
+    from {background-color: black;}
+    to {background-color: #444;}
+}
+
+/* The element to apply the animation to */
+#introheader {
+    background-color: black;
+    animation-name: fadecolor;
+    animation-duration: 4s;
+}
