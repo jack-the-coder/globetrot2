@@ -5,7 +5,7 @@
 #wrapper {
   width: 75%;
   margin: 0 auto;
-  padding-top: 62vh;
+  padding-top: 52vh;
 }
 
 #header {
@@ -33,8 +33,8 @@
 
 #background-image {
   z-index: -10;
-  width: 100%;
-  height: 100%;
+  width: 95%;
+  height: 95%;
   position: absolute;
   object-fit: cover;
 }
