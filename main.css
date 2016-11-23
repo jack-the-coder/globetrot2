@@ -11,7 +11,7 @@
 #header {
   font-size: 2.75em;
   color: #444;
-  display-type: flex;
+  display-type: inline;
   background-color: #fff;
   text-align: center;
 }
