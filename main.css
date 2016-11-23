@@ -37,6 +37,7 @@
   height: 95%;
   position: absolute;
   object-fit: cover;
+  margin: 2.5%, 2.5%, 2.5%, 2.5%;
 }
 
 body {
